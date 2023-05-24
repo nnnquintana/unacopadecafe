@@ -1,0 +1,23 @@
+.caja-contenedora img {
+    border-radius: 50px;
+    margin-right: 10px;
+    width: 100px;
+    height: 100px;
+}
+.caja-contenedora p {
+    font-size: x-large;
+    margin-left: 10%;
+    margin-right: 10%; 
+}
+.caja-contenedora {
+    width: 100%;
+    background-color: #ebebeb;
+    border: 1px solid #ccc;
+}
+.imagen-con-borde {
+    border: 5px;
+    padding: 5px; 
+}
+mark {
+    background-color: rgb(162, 162, 233)
+  }

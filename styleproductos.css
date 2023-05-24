@@ -1,0 +1,38 @@
+.h1 {
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0%;
+}
+.caja-contenedora {
+ display: flex;
+ float: left;
+}
+.caja-contenedora-titulo img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 50px;
+    margin-right: 10px;
+    width: 100px;
+    height: 100px;
+}
+.caja-contenedora img {
+    max-width: 100%;
+    max-height: 100%;
+}
+.caja-contenedora-categorias li a {
+    font-size: 20px;
+    color: brown;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  .caja-contenedora-categorias img {
+    border-radius: 150px;
+    margin-right: 80px;
+    width: 250px;
+    height: 250px;
+
+}
+.caja-contenedora-categorias{
+    float: center;
+  margin-left: 50%;
+}

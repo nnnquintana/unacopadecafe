@@ -1,0 +1,27 @@
+.caja-contenedora {
+    width: 100%;
+    background-color: #ebebeb;
+    border: 1px solid #ccc;
+}
+.caja-contenedora img {
+    border-radius: 50px;
+    margin-right: 10px;
+    width: 100px;
+    height: 100px;
+}
+.caja-contenedora-contacto ol{
+    width: 10%;
+    height: 50%;
+    background-color: white;
+    padding: 5%;
+    justify-content: center;
+    margin-left: 38%;
+    margin-top: 10%;
+    font-size: x-large;
+}
+.caja-contenedora-contacto img {
+    border-radius: 50px;
+    margin-right: 10px;
+    width: 100px;
+    height: 100px;
+}

@@ -1,0 +1,34 @@
+.caja-contenedora1 {
+    width: 100%;
+    height: 50px;
+    background-color: #ebebeb;
+    border: 1px solid #ccc;
+    padding: 20px;
+    display: flex;
+}
+.caja-contenedora1 img {
+    border-radius: 50px;
+    margin-right: 10px;
+    width: 100px;
+    height: 100px;
+}
+.caja-contenedora1 h1 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-left: 20px;
+}
+.lista-en-linea {
+  display: flex;
+  list-style-type: none;
+  margin-right: 10px;
+  justify-content: flex-end;
+}
+.lista-en-linea li {
+  margin-right: 50px;
+  float: right;
+}
+.caja-contenedora1 li a {
+  font-size: 20px;
+  color: brown;
+  text-decoration: none;
+}
+
